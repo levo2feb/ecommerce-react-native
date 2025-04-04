@@ -13,13 +13,16 @@ Features:
 
 Tech Stack
 🔹Frontend: React Native, React Navigation
+
 🔹State Management: useState, useEffect
+
 🔹Storage: AsyncStorage
 🔹API: FakeStore API
 🔹Navigation: React Navigation
 
 
 Installation & Running Locally:
+
 1️- Clone the Repository
 "git clone https://github.com/YOUR_USERNAME/ecommerce-react-native.git"
 "cd ecommerce-react-native"
