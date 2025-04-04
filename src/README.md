@@ -11,6 +11,7 @@ Features:
 6. Navigation – Smooth screen transitions using React Navigation.
 
 
+
 Tech Stack
 
 🔹Frontend: React Native, React Navigation
@@ -24,6 +25,7 @@ Tech Stack
 🔹Navigation: React Navigation
 
 
+
 Installation & Running Locally:
 
 1️- Clone the Repository
@@ -35,9 +37,9 @@ Installation & Running Locally:
 
 3️- Run the App (For Android)
 "npx react-native run-android"
-
- (For ios - Mac Only)
+(For ios - Mac Only)
 "npx react-native run-ios"
+
 
 
 
@@ -51,12 +53,15 @@ Requirements:
 
 
 
+
 How It Works
 1. Fetches product data from FakeStore API.
 2. Displays products in a grid layout.
 3. Clicking a product opens details screen with description & "Add to Cart".
 4. Cart items are stored using AsyncStorage.
 5. Wishlist feature lets users save favorite products.
+
+
 
 
 Future Enhancements
@@ -71,6 +76,7 @@ Future Enhancements
 
 
 
+
 Contributions are welcome! 
 
 🔹Fork the repo
@@ -82,6 +88,8 @@ Contributions are welcome!
 🔹Push: git push origin feature-xyz
 
 🔹Open a Pull Request
+
+
 
 
 License
