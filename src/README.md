@@ -18,7 +18,9 @@ Tech Stack
 🔹State Management: useState, useEffect
 
 🔹Storage: AsyncStorage
+
 🔹API: FakeStore API
+
 🔹Navigation: React Navigation
 
 
@@ -33,15 +35,20 @@ Installation & Running Locally:
 
 3️- Run the App (For Android)
 "npx react-native run-android"
- (For ios) (Mac Only)
+
+ (For ios - Mac Only)
 "npx react-native run-ios"
 
 
 
 Requirements:
+
 🔹Android Studio (for Android)
+
 🔹Xcode (for iOS)
+
 🔹A physical device or emulator
+
 
 
 How It Works
@@ -51,22 +58,33 @@ How It Works
 4. Cart items are stored using AsyncStorage.
 5. Wishlist feature lets users save favorite products.
 
+
 Future Enhancements
+
 🔹Improve UI with animations.
+
 🔹Add authentication (Login/Signup).
+
 🔹Implement payments with Stripe or Razorpay.
+
 🔹Integrate push notifications.
 
 
-Contributing
+
 Contributions are welcome! 
+
 🔹Fork the repo
+
 🔹Create a new branch: git checkout -b feature-xyz
+
 🔹Commit your changes: git commit -m "Added new feature"
+
 🔹Push: git push origin feature-xyz
+
 🔹Open a Pull Request
 
 
 License
+
 This project is open-source under the MIT License.
 
