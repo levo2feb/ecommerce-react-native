@@ -13,28 +13,18 @@ Features:
 
 
 Tech Stack
-
-🔹Frontend: React Native, React Navigation
-
-🔹State Management: useState, useEffect
-
-🔹Storage: AsyncStorage
-
-🔹API: FakeStore API
-
-🔹Navigation: React Navigation
-
-
+1. Frontend: React Native, React Navigation
+2. State Management: useState, useEffect
+3. Storage: AsyncStorage
+4. API: FakeStore API
+5. Navigation: React Navigation
 
 Installation & Running Locally:
-
 1️- Clone the Repository
 "git clone https://github.com/YOUR_USERNAME/ecommerce-react-native.git"
 "cd ecommerce-react-native"
-
 2️- Install Dependencies
 "npm install"
-
 3️- Run the App (For Android)
 "npx react-native run-android"
 (For ios - Mac Only)
