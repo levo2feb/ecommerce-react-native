@@ -22,7 +22,7 @@ Tech Stack
 Installation & Running Locally:
 
 1️- Clone the Repository
-"git clone https://github.com/YOUR_USERNAME/ecommerce-react-native.git"
+"git clone https://github.com/levo2feb/ecommerce-react-native.git"
 "cd ecommerce-react-native"
 
 2️- Install Dependencies
