@@ -20,11 +20,14 @@ Tech Stack
 5. Navigation: React Navigation
 
 Installation & Running Locally:
+
 1️- Clone the Repository
 "git clone https://github.com/YOUR_USERNAME/ecommerce-react-native.git"
 "cd ecommerce-react-native"
+
 2️- Install Dependencies
 "npm install"
+
 3️- Run the App (For Android)
 "npx react-native run-android"
 (For ios - Mac Only)
@@ -56,28 +59,18 @@ How It Works
 
 Future Enhancements
 
-🔹Improve UI with animations.
-
-🔹Add authentication (Login/Signup).
-
-🔹Implement payments with Stripe or Razorpay.
-
-🔹Integrate push notifications.
-
-
+1. Improve UI with animations.
+2. Add authentication (Login/Signup).
+3. Implement payments with Stripe or Razorpay.
+4. Integrate push notifications.
 
 
 Contributions are welcome! 
-
-🔹Fork the repo
-
-🔹Create a new branch: git checkout -b feature-xyz
-
-🔹Commit your changes: git commit -m "Added new feature"
-
-🔹Push: git push origin feature-xyz
-
-🔹Open a Pull Request
+1. Fork the repo
+2. Create a new branch: git checkout -b feature-xyz
+3. Commit your changes: git commit -m "Added new feature"
+4. Push: git push origin feature-xyz
+5. Open a Pull Request
 
 
 
