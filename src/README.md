@@ -12,6 +12,7 @@ Features:
 
 
 Tech Stack
+
 🔹Frontend: React Native, React Navigation
 
 🔹State Management: useState, useEffect
